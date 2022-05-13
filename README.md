@@ -2,7 +2,7 @@
 
 # Node.js Rest APIs with Express, Sequelize For Back end
 
-# React + Typescript for Front end
+# React for Front end
 
 ## Install dependencies
 
