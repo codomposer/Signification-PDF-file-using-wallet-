@@ -1,0 +1,39 @@
+{
+  "name": "nodejs-express-sequelize-postgresql",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis with Express, Sequelize & PostgreSQL.",
+  "main": "(index.js) server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "postgresql",
+    "rest",
+    "api"
+  ],
+  "author": "akileus",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.5",
+    "express": "^4.18.1",
+    "form-data": "3.0.0",
+    "fs": "^0.0.1-security",
+    "fs-backwards-stream": "^1.0.0",
+    "fs-reverse": "^0.0.3",
+    "multer": "^1.4.4",
+    "node-fetch": "2.6.1",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.19.0"
+  },
+  "devDependencies": {
+    "joi": "^17.6.0",
+    "nodemon": "^2.0.16"
+  }
+}
